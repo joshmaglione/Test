@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Built from gitlab today.
-=======
 Built from github on 15 August.
->>>>>>> 3b27e04987f84446330286d28172061db5f707f7
